@@ -2,6 +2,18 @@
 
 Esta é uma aplicação básica, proposta pelo tutorial do [Next.js](https://nextjs.org/learn) de como usa-lo para produção de sites.
 
+Se este repoitório ainda estiver conectado no vercel, você pode ver ele funcionado [aqui](https://nextjs-blog-mocha-ten.vercel.app/).
+
+## Testar por si mesmo
+
+Se em vez de olhar o código neste repositório e ver sua [versão funcionando na Vercel](https://nextjs-blog-mocha-ten.vercel.app/), você pode preferir baixar este repositório para sua maquina (que deve ter [Node.js](https://nodejs.org/en/) instalado) e rodar os seguintes comandos:
+
+'''shell
+npm install
+npm run build
+npm run start
+'''
+
 ## Considerações
 
 ### O Framework
