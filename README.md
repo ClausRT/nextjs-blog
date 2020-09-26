@@ -8,11 +8,11 @@ Se este repoitório ainda estiver conectado no vercel, você pode ver ele funcio
 
 Se em vez de olhar o código neste repositório e ver sua [versão funcionando na Vercel](https://nextjs-blog-mocha-ten.vercel.app/), você pode preferir baixar este repositório para sua maquina (que deve ter [Node.js](https://nodejs.org/en/) instalado) e rodar os seguintes comandos:
 
-'''shell
+```shell
 npm install
 npm run build
 npm run start
-'''
+```
 
 ## Considerações
 
