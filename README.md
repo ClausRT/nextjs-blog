@@ -30,6 +30,12 @@ Eu adorei a ideia e o uso de CSS Modules e classnames (o package). Nunca fui um 
 
 Yep, preciso aprender isso. Parece legal, mas é um pouco confuso e eu me perco muito rápido na hora de tentar entender o que uma regex faz no código.
 
+### Typescript
+
+Curti que a configuração para usar TS é bem simples e o Next faz isso pra você. Como estou voltando a aprender, isso me ajudou um pouco. Converter os arquivos do tutorial para .ts e .tsx foi fácil, MAS não é válido como exemplo real de prototipação com ts e next. Vou ter que fazer algum projetinho do zero já em typescript pra entender de verdade.
+
+Fora que tenho que configurar minha IDE para apontar os erros de digitação e o escambal que não estão funcionando cem por cento das vezes em TypeScript.
+
 ## Observações
 
 Os seguintes arquivos foram simplesmente copiados do tutorial, ou por que eu estava sem paciencia ou por que eu estava sem tempo:
